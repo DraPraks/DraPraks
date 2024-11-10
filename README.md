@@ -9,8 +9,6 @@
 ## Overall top languages:
 ![output (1)](https://github.com/user-attachments/assets/a31c9db5-b93e-4879-88f7-f31f96f1baca)
 
-![GitHub Snake Animation](./dist/snake.svg)
-
 ---
 
 💻 **Skills & Interests:**

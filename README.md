@@ -10,7 +10,7 @@
 ---
 
 💻 **Skills & Interests:**
-- **Languages**: Python, C++, GDScript, C#
+- **Languages**: Python, C++, C, C#, Dart
 - **Frameworks**: Godot & Unity for game development, PyTorch & TensorFlow for AI/ML
 - **Interests**: Deep Reinforcement Learning, game development, 3D modelling, aerospace engineering
 

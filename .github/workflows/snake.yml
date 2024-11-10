@@ -20,13 +20,6 @@ jobs:
           github_user_name: drapraks # Replace with your GitHub username
           output: dist/snake.svg
 
-      # Upload the snake animation as a GitHub artifact
-      - name: Upload Snake Animation
-        uses: actions/upload-artifact@v2
-        with:
-          name: snake-animation
-          path: dist/snake.svg
-
       # Commit and push the generated SVG
       - name: Commit and Push
         run: |
@@ -36,4 +29,4 @@ jobs:
           git commit -m "Update snake animation"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKENNN }}

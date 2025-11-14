@@ -1,4 +1,5 @@
-Making AI agents for compliance in financial companies. 
+(now) Making AI stuff to improve AI roleplay stuff 
+(was) Making AI agents for compliance in financial companies. 
 
 ---
 
